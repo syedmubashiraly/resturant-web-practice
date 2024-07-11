@@ -1,0 +1,13 @@
+h1{
+    color: gold;
+    font-family: cursive ;
+    font-size: 3.5cap;
+}
+p{
+    color: rgba(246, 246, 246, 0.958);
+    background-color: rgb(30, 31, 31);
+    opacity: 0.9;
+    font-size: large;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
